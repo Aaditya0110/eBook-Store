@@ -1,0 +1,31 @@
+#im{
+    width: 100%;
+    height: 130px;
+    border: 2px solid black;
+    border-radius: 6px;
+    transition: 1s;
+}
+
+.Book{
+    /* border: 1px solid black; */
+    border-bottom: 1px solid black;
+    /* border-radius: 10px; */
+    /* padding: 5px; */
+    /* margin: 15px; */
+    display: grid;
+    grid-template-columns: 150px auto;
+    /* background-color: antiquewhite; */
+    /* width: 16%; */
+    /* height: 150px; */
+    /* float: left; */
+    transition: 1s;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 10px;
+}
+
+.cnt{
+    margin-left: 10px;
+    height: 40px;
+    transition: 1s;
+}

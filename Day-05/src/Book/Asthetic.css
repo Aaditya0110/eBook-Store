@@ -1,0 +1,33 @@
+.cont{
+    /* display: none; */
+    /* background-color: aqua; */
+}
+
+.Book1{
+    position: relative;
+    /* text-align: center; */
+    color: black;
+    /* text-align: center; */
+    text-align: center;
+    float: left;
+    width: 18%;
+    /* border:1px solid black; */
+}
+
+#imgs1{
+    padding: 1px;
+    width: 75%;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.conti{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font: weight 3px;
+}
+
+/* .im{
+    text-align: center;
+} */

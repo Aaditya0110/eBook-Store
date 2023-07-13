@@ -1,0 +1,93 @@
+.App1{
+    /* background-color: white; */
+    color: rgb(23, 22, 22);
+    margin: auto;
+    width: 45%;
+    /* padding: 10px; */
+    /* border-radius: 50px; */
+    margin-top: 7%;
+    font-size: 20px;
+    /* position: relative; */
+    font-weight: 200;
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+    background-color: rgba(243, 236, 236,0.8);
+    border-radius: 50px;
+    background-size: cover;
+    margin-top: 160px;
+  }
+  p{
+    color: red;
+  }
+
+  .contents{
+    /* padding: 10px; */
+    /* width: 50%; */
+    /* float: left; */
+    width: 180%;
+    height: fit-content;
+    padding-bottom: 15px;
+  }
+
+  #sin1{
+    background-color: rgb(23, 22, 22);
+    color: white;
+    border-radius: 12px;
+    height: 30px;
+    width: 50%;
+    font-size: 15px;
+    border: solid black;
+  }
+  
+  #sin1:hover{
+    /* height: 32px; */
+    width: 51%;
+    font-size: 17px;
+  }
+ 
+  #sin1:active{
+    height: 30px;
+    font-size: 15px;
+  }
+
+  
+
+  .sim{
+    padding-left: 160px;
+    width: 120%;
+    height: 350px;
+    border-radius: 0px 50px 50px 0px;
+  }
+
+  a{
+    text-decoration: none;
+    /* padding-top: 10px; */
+  }
+
+  .side{
+    float: right;
+  }
+
+
+  input{
+    width:60%;
+    background-color: rgba(243, 236, 236,0.2);
+    outline: none;
+    /* opacity: 100%; */
+    font-size: 20px;
+    text-align: center;
+  }
+
+  input:hover{
+    width: 61%;
+  }
+
+  input:focus{
+    background-color: white;
+  }
+
+.sup,.fp{
+  padding-top: 35px;
+}

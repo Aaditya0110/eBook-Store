@@ -1,0 +1,84 @@
+#ul2 {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color:sandybrown;
+    position: flex;
+    /* top: 0px; */
+    width: 100%;
+    font-size: 20px;
+    /* height: 55px; */
+    padding: 0px;
+    border-radius: 20px;
+    margin-top: 10px;
+    /* margin-left: 15px; */
+}
+li {
+    float: left;
+    /* border-right: 1px solid #bbb; */
+    /* background-color: antiquewhite; */
+}
+.bseller{
+    cursor: pointer;
+    float: left;
+    position: relative;
+    /* width: 15%; */
+    margin-right: 0px;
+    margin-left: 20px;
+    padding: 20px;
+    margin-right: 15px;
+    /* background-color: bisque;
+    border-radius: 20px; */
+    /* top: 1px; */
+}
+
+
+#bimg{
+    border-radius: 18px;
+    /* width: 100%; */
+    height: 340px;
+    width: 255px;
+    /* padding:10px; */
+}
+
+/* #bimg:hover{
+    height: 344px;
+    width: 265px;
+} */
+
+#bi1{
+    /* left: 16px; */
+    top: 8px;
+    /* bottom: 1px; */
+    /* position: absolute; */
+    
+}
+
+.bi1 {
+    width: 215px;
+    height: 71px;
+    position: absolute;
+    /* top:1px; */
+    bottom: 13px;
+    background: rgba(0, 0, 0, 0.8); 
+    color: #f1f1f1;
+    /* width: 68%;; */
+    text-align: center;
+    padding: 20px;
+    border-radius: 0px 0px 18px 18px;
+    /* bottom: 0px; */
+}
+
+
+
+
+  .bseller1{
+    position: relative;
+    /* margin-right: 10%; */
+    /* display: flex; */
+  }
+  
+  /* #schl{
+    height: 100px;
+  }
+   */
