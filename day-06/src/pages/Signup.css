@@ -1,0 +1,80 @@
+.App{
+    background-color: rgba(243, 236, 236,0.8);
+    color: rgb(23, 22, 22);
+    margin: auto;
+    width: 30%;
+    /* padding: 10px; */
+    border-radius: 50px;
+    margin-top: 5%;
+    font-size: 20px;
+    /* opacity: 80%; */
+    position: relative;
+}
+
+
+  .contents1{
+    padding: 10px;
+    
+    /* width: 50%; */
+    /* float: left; */
+    /* position: absolute; */
+  }
+
+  /* .sinbttn{
+    margin: auto;
+    width: 50%;
+  } */
+
+  #sin{
+    background-color: rgb(23, 22, 22);
+    color: white;
+    border-radius: 12px;
+    width: 40%;
+    height: 30px;
+    font-size: 15px;
+    border: solid black;
+    cursor: pointer;
+  }
+  #sin:hover{
+    /* height: 32px; */
+    width: 41%;
+    font-size: 17px;
+  }
+ 
+  #sin:active{
+    background-color: white;
+    color: black;
+  }
+
+  input{
+    border-radius: 12px;
+    height: 30px;
+    width: 60%;
+  }
+
+  a{
+    text-decoration: none;
+    padding-top: 10px;
+  }
+
+  a:hover{
+    color: rgb(255, 140, 0);
+    /* font-size: 21px; */
+  }
+
+  a:active{
+    color: blue;
+  }
+
+  .side{
+    float: right;
+  }
+
+  .text-danger{
+    color: red;
+  }
+
+  #log{
+    padding-top: 25px;
+    padding-bottom: 15px;
+  }

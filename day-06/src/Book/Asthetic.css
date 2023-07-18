@@ -1,0 +1,48 @@
+.cunt{
+    display: block;
+    /* background-color: aqua; */
+    width: 100%;
+}
+
+.Book1{
+    position: relative;
+    /* text-align: center; */
+    color: black;
+    /* text-align: center; */
+    text-align: center;
+    /* float: left; */
+    width: 300px;
+    /* border:1px solid black; */
+    /* margin-bottom: 60px; */
+    /* margin-right: 60px; */
+    /* margin-left: 55px; */
+    margin-bottom: 30px;
+    padding: 8px;
+    height: 300px;
+}
+
+.imgs5{
+    /* display: block; */
+    padding: 1px;
+    width: 60%;
+    height: 260px;
+    /* border-radius: 10px; */
+    /* margin-bottom: 10px; */
+    transition: 0.2s ;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px rgb(71, 79, 86) ;
+
+}
+
+.imgs5:hover {
+    /* display:block; */
+    /* padding: 1px; */
+    width: 68%;
+    height: 290px; 
+    /* border-radius: 10px; */
+    transition: 0.2s;
+}
+
+/* .im{
+    text-align: center;
+} */

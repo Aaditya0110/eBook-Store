@@ -1,0 +1,38 @@
+#im{
+    width: 90%;
+    height: 180px;
+    border: 2px solid black;
+    /* border-radius: 6px; */
+    transition: 1s;
+}
+
+.Book{
+    /* border: 1px solid black; */
+    border: 1px solid black;
+    border-radius: 15px;
+    /* padding: 5px; */
+    /* margin: 15px; */
+    display: grid;
+    grid-template-columns: 150px auto;
+    /* background-color: antiquewhite; */
+    width:90%;
+    /* margin-right: 20px; */
+    /* height: 150px; */
+    /* float: left; */
+    transition: 1s;
+    padding: 6px;
+    margin: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.cnt{
+    /* margin-left: px; */
+    height: 40px;
+    /* padding: 2px; */
+    transition: 1s;
+}
+
+#a{
+    padding-bottom: 1px;
+}

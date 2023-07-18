@@ -1,0 +1,25 @@
+.tp{
+    text-align: center;
+    font-size: large;
+    background-color: beige;
+    width: 15%;
+    height: fit-content;
+    padding: 20px;
+    margin-left: 43%;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+#uic{
+    width: 100%;
+    /* padding: 10px; */
+    border: 1px solid black;
+    padding: 4px;
+    border-radius: 10px;
+    /* background-color: antiquewhite; */
+}
+
+.uIcon{
+    /* background-color: black; */
+    width: 100%;
+}
